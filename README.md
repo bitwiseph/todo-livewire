@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://info.bitwiseph.tech/wp-content/uploads/2021/06/bitwise-e1624618031601.pngg" width="400"></a></p>
+<p align="center"><a href="https://info.bitwiseph.tech/wp-content/uploads/2021/06/bitwise-e1624618031601.png" target="_blank"><img src="https://info.bitwiseph.tech/wp-content/uploads/2021/06/bitwise-e1624618031601.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
